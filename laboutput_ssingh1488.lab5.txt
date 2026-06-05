@@ -1,0 +1,11 @@
+OPS445 Lab Report - System Information for running CheckLab5.py
+===============================================================
+    User login name: ssingh1488
+    Linux system name: ssingh1488-linux-mint
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/ssingh1488/ops445/lab5/lab5-ssingh1488
+    Start at: Fri Jun  5 09:12:02 2026
+===============================================================
+ssingh1488
